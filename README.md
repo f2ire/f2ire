@@ -63,4 +63,4 @@
 
 - Board Game Community (former Vice-President)  
 - Scientific Observation, Programming (CodinGame, Rosalind)  
-- Sports: Volleyball, Archery, Hiking, Games
+- Volleyball, Archery, Hiking, Games

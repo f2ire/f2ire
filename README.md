@@ -48,7 +48,7 @@
 <p align="center">
   <span>
     <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/jp.svg" width="80">
-    <code>[█████░░░░░░░░░░░░░░] 25%   </code>
+    <code>[███████████░░░░░░░░] 50%   </code>
         <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/es.svg" width="80">
     <code>[█████░░░░░░░░░░░░░░] 25% </code>
   </span>
